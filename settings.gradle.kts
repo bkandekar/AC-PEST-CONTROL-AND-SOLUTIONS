@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "AC Pest Control"
+rootProject.name = "AC Pest Control & Solutions"
 
 include(":app")
